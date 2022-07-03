@@ -9,6 +9,6 @@ public class FirstTest {
         System.setProperty("webdriver.chrome.driver","/Users/Staffa01/Desktop/Chromedriver.exe");
         ChromeDriver driver = new ChromeDriver();
 
-        driver.get("https://stage-web.paysenger.me/");
+        driver.get("https://paysenger.me/");
     }
 }
